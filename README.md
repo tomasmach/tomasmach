@@ -9,7 +9,7 @@ Hello! I'm Tomáš, a Software Developer at [Prusa Research a.s.](https://www.pr
 - 💻 **Languages & Tech:** Python, Django, Asyncio, C, and a beginner in JavaScript.
 - 🌐 **Focus:** Currently working mainly on backend, but learning to master fullstack.
 - 🎯 **Goal:** Improve my skills every day and develop my own project [Donatify](https://github.com/tomasmach/Donatify) (starting 13.11.2024!).
-- 🏃‍♂️ **Fun Fact:** I lost 47 kg in the past year! Now, I'm thinking about tackling a half-marathon (even though I don't actually enjoy running 😅).
+- 🏃‍♂️ **Fun Fact:** I lost 50 kg in the past year! Now, I'm thinking about tackling a half-marathon (even though I don't actually enjoy running 😅).
 
 ---
 
