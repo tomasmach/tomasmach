@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tmach.dev/en/">🌐 Portfolio (tmach.dev)</a> • 
+  <a href="https://www.tmach.dev/">🌐 Portfolio (tmach.dev)</a> • 
   <a href="mailto:tomades1@gmail.com">📧 Email</a>
 </p>
 
