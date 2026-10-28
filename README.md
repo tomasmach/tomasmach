@@ -1,45 +1,25 @@
-<h1 align="center">👨‍💻 Tomáš Mach</h1>
+# Tomáš Mach
 
-<p align="center">
-  <strong>Software Developer | Python & Backend Specialist</strong><br>
-  Based in Prague, Czech Republic
-</p>
+AI-driven product engineer in Prague. I build whole products: architecture, backend, frontend, AI agents, tests and deployment. Agents write a lot of my code, I decide what to build and check that it works.
 
-<p align="center">
-  <a href="https://www.tmach.dev/">🌐 Portfolio (tmach.dev)</a> • 
-  <a href="mailto:tomades1@gmail.com">📧 Email</a>
-</p>
+I work at [Cleevio Labs](https://cleevio.com) as the only engineer on [Uprate](https://upratehq.com), and I build a few products of my own.
 
----
+[tmach.dev](https://www.tmach.dev/) · [tomades1@gmail.com](mailto:tomades1@gmail.com)
 
-## 🚀 About Me
+## What I'm building
 
-Hello! I'm **Tomáš**, a software developer passionate about writing clean, scalable code. I specialize in the **Python** ecosystem, focusing on efficient backend architecture and robust communication systems.
+- **[Na Pivo](https://github.com/tomasmach/na-pivo)**: a beer diary for Czech and Slovak beer drinkers. Over 13,000 downloads and #2 free app in the Czech App Store a few days after launch. Expo and Django. [na-pivo.cz](https://na-pivo.cz)
+- **[Nuzky](https://github.com/nuzkyapp/nuzky)**: a free, open-source video editor in the spirit of CapCut. Rust engine, captions from Whisper running on your computer, AI agents editing the timeline over MCP. Early alpha. [nuzky.app](https://nuzky.app)
+- **[Uprate](https://upratehq.com)**: an AI platform for running mobile apps on the App Store and Google Play. Over 500 end-to-end tests.
+- **[Vespra](https://github.com/tomasmach/vespra)**: a Discord AI companion with persistent memory, written in Go.
+- **[ai-agent-dotfiles](https://github.com/tomasmach/ai-agent-dotfiles)**: my Claude Code and Codex setup.
 
-I thrive on problem-solving and taking ownership of projects. While I value deep work as an individual contributor, I'm excited to collaborate in agile environments and tackle complex software challenges.
+## Stack
 
-* 🔭 **Current Status:** Joining **Cleevio Labs** (Jan 2026) to work on complex software solutions.
-* 💻 **Core Stack:** Python (Asyncio, Django), MQTT, Docker, PostgreSQL, Linux.
-* 🌱 **Currently Learning:** Advanced Software Architecture & System Design.
-* ⚡ **Fun Fact:** I lost over **70 kg** two years ago! I also ran a half-marathon **completely without training** (probably not the smartest idea, but I did it 😅).
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,django,laravel,go,rust,postgres,docker,linux" alt="TypeScript, React, Next.js, Python, Django, Laravel, Go, Rust, PostgreSQL, Docker, Linux" />
 
-## 🛠️ Technical Skills
+## Before AI
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,nginx" />
-  </a>
-</p>
+Nearly three years as a software developer at [Prusa Research](https://www.prusa3d.com): manufacturing automation, calibration over MQTT and Modbus, internal tools. Before that, drone engineer at DronPro.
 
-**Other:** MQTT, Asyncio, REST APIs
-
-## 📂 Featured Project
-
-### 📖 [QuietPage](https://github.com/tomasmach/quietpage)
-*Started Dec 2025 • Work in Progress*
-
-A personal initiative to develop my own platform. I'm using this project to push my boundaries and experiment with new technologies outside my usual scope.
-
----
-
-<p align="center">Thanks for stopping by! 👋</p>
+Fun fact: I lost over 70 kg and once ran a half-marathon without any training.
