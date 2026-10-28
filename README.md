@@ -9,13 +9,13 @@ I build whole products: architecture, backend, frontend, AI agents, tests and de
 
 <br>
 
-<p><img src="assets/uprate.png" width="79" align="left" alt=""><b><a href="https://upratehq.com">Uprate</a></b> · work at <a href="https://cleevio.com">Cleevio Labs</a><br>AI platform for running mobile apps on the App Store and Google Play. I'm its only engineer: backend, AI agents, frontend, tests and releases.</p>
+<p><img src="assets/uprate.png" width="79" align="left" alt="Uprate icon"><b><a href="https://upratehq.com">Uprate</a></b> · work at <a href="https://cleevio.com">Cleevio Labs</a><br>AI platform for running mobile apps on the App Store and Google Play. I'm its only engineer: backend, AI agents, frontend, tests and releases.</p>
 <br clear="left">
 
-<p><img src="assets/na-pivo.png" width="79" align="left" alt=""><b><a href="https://na-pivo.cz">Na Pivo</a></b> · my app · <a href="https://github.com/tomasmach/na-pivo">code</a><br>Beer diary for Czech and Slovak beer drinkers. Built alone with Expo and Django, finalist of Czech Social Awards 2026 in the Apps category.</p>
+<p><img src="assets/na-pivo.png" width="79" align="left" alt="Na Pivo icon"><b><a href="https://na-pivo.cz">Na Pivo</a></b> · my app · <a href="https://github.com/tomasmach/na-pivo">code</a><br>Beer diary for Czech and Slovak beer drinkers. 14k+ downloads, #2 free app in the Czech App Store and a finalist of Czech Social Awards 2026 in the Apps category. Built alone with Expo and Django.</p>
 <br clear="left">
 
-<p><img src="assets/nuzky.png" width="79" align="left" alt=""><b><a href="https://nuzky.app">Nuzky</a></b> · my app · <a href="https://github.com/nuzkyapp/nuzky">code</a><br>Free, open-source video editor in the spirit of CapCut. Rust engine, local Whisper captions, AI agents editing the timeline over MCP. Early alpha.</p>
+<p><img src="assets/nuzky.png" width="79" align="left" alt="Nuzky icon"><b><a href="https://nuzky.app">Nuzky</a></b> · my app · <a href="https://github.com/nuzkyapp/nuzky">code</a><br>Free, open-source video editor in the spirit of CapCut. Rust engine, local Whisper captions, AI agents editing the timeline over MCP. Early alpha.</p>
 <br clear="left">
 
 <details>
