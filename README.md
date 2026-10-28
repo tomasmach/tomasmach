@@ -1,23 +1,30 @@
-# Tomáš Mach
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Tomáš Mach, AI-driven product engineer in Prague. Na Pivo: 14k+ downloads, #2 free app in the Czech App Store, Czech Social Awards finalist" width="100%">
+</picture>
+</p>
 
-AI-driven product engineer in Prague. I build whole products: architecture, backend, frontend, AI agents, tests and deployment. Agents write a lot of my code, I decide what to build and check that it works.
+I build whole products: architecture, backend, frontend, AI agents, tests and deployment. Agents write a lot of my code, I decide what to build and check that it works.
 
-## Work
+<br>
 
-**[Uprate](https://upratehq.com)** at [Cleevio Labs](https://cleevio.com). An AI platform for running mobile apps on the App Store and Google Play, with agents that help teams with reviews, store listings and pricing. I'm the only engineer on it: backend, AI integrations, frontend, tests and releases. It has over 500 end-to-end tests.
+<p><img src="assets/uprate.png" width="79" align="left" alt=""><b><a href="https://upratehq.com">Uprate</a></b> · work at <a href="https://cleevio.com">Cleevio Labs</a><br>AI platform for running mobile apps on the App Store and Google Play. I'm its only engineer: backend, AI agents, frontend, tests and releases.</p>
+<br clear="left">
 
-## My projects
+<p><img src="assets/na-pivo.png" width="79" align="left" alt=""><b><a href="https://na-pivo.cz">Na Pivo</a></b> · my app · <a href="https://github.com/tomasmach/na-pivo">code</a><br>Beer diary for Czech and Slovak beer drinkers. Built alone with Expo and Django, finalist of Czech Social Awards 2026 in the Apps category.</p>
+<br clear="left">
 
-**[Na Pivo](https://na-pivo.cz)**: a beer diary app for Czech and Slovak beer drinkers. Over 14,000 downloads, #2 free app in the Czech App Store a few days after launch, and a finalist in the Apps category of Czech Social Awards 2026. I built it alone with Expo and Django. [Code](https://github.com/tomasmach/na-pivo)
+<p><img src="assets/nuzky.png" width="79" align="left" alt=""><b><a href="https://nuzky.app">Nuzky</a></b> · my app · <a href="https://github.com/nuzkyapp/nuzky">code</a><br>Free, open-source video editor in the spirit of CapCut. Rust engine, local Whisper captions, AI agents editing the timeline over MCP. Early alpha.</p>
+<br clear="left">
 
-**[Nuzky](https://nuzky.app)**: a free, open-source video editor in the spirit of CapCut. Rust engine, captions from Whisper running on your computer, and AI agents that edit the timeline over MCP. Early alpha. [Code](https://github.com/nuzkyapp/nuzky)
-
-## Before AI
-
-Nearly three years as a software developer at [Prusa Research](https://www.prusa3d.com): manufacturing automation, calibration over MQTT and Modbus, internal tools. Before that, drone engineer at DronPro.
-
+<details>
+<summary><b>Before AI</b></summary>
+<br>
+Nearly three years as a software developer at <a href="https://www.prusa3d.com">Prusa Research</a>: manufacturing automation, calibration over MQTT and Modbus, internal tools. Before that, drone engineer at DronPro.<br><br>
 Fun fact: I lost over 70 kg and once ran a half-marathon without any training.
+</details>
 
-## Contact
+<br>
 
-Open to selected remote contract work and AI projects. [tomades1@gmail.com](mailto:tomades1@gmail.com) · [tmach.dev](https://www.tmach.dev/)
+`(email)` [tomades1@gmail.com](mailto:tomades1@gmail.com) &nbsp; `(web)` [tmach.dev](https://www.tmach.dev/) &nbsp; `(status)` open to selected remote contract work and AI projects
